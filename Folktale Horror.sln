@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folktale Horror", "Folktale Horror.csproj", "{D35EC010-858E-BF15-636C-8FD950C76869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folktale Horror.Plugins", "Folktale Horror.Plugins.csproj", "{5B19606D-1751-5309-8BDF-6A8897391C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folktale Horror.Editor.Plugins", "Folktale Horror.Editor.Plugins.csproj", "{B9757A0C-7132-F086-13BE-049A0740BB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35EC010-858E-BF15-636C-8FD950C76869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35EC010-858E-BF15-636C-8FD950C76869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35EC010-858E-BF15-636C-8FD950C76869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35EC010-858E-BF15-636C-8FD950C76869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B19606D-1751-5309-8BDF-6A8897391C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B19606D-1751-5309-8BDF-6A8897391C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B19606D-1751-5309-8BDF-6A8897391C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B19606D-1751-5309-8BDF-6A8897391C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9757A0C-7132-F086-13BE-049A0740BB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9757A0C-7132-F086-13BE-049A0740BB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9757A0C-7132-F086-13BE-049A0740BB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9757A0C-7132-F086-13BE-049A0740BB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
