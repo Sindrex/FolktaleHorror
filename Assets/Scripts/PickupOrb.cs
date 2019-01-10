@@ -18,7 +18,7 @@ public class PickupOrb : MonoBehaviour {
     {
         if (other.transform.tag.Equals("Player"))
         {
-            other.transform.GetComponent<PlayerController>().addOrb();
+            other.transform.parent.GetComponent<PlayerController>().addOrb();
             Destroy(this.gameObject);
         }
     }

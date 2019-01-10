@@ -1,2 +1,2 @@
 # Folktale Horror "Sti"
-Draupne & Sindre H. Paulshus 2019
+Draupne & Sindrex 2019
