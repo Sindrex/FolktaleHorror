@@ -30,6 +30,7 @@ public class MonsterController : MonoBehaviour {
         if (collision.transform.tag.Equals("Player"))
         {
             UI.loss();
+            collision.transform.LookAt(transform);
         }
     }
 }
