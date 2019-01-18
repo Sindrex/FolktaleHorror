@@ -21,6 +21,8 @@ public class PlayerController : MonoBehaviour {
         orbText.text = "Orbs: " + orbs + "/" + maxorbs;
         dialogueText.gameObject.SetActive(false);
         dialogue();
+
+        Cursor.visible = false;
     }
 	
 	// Update is called once per frame
